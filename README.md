@@ -133,8 +133,8 @@ pip install numpy matplotlib
 ---
 
 ## Authors
- Munagala Sampath Reddy 
- Muddagoni Akshith 
+ Munagala Sampath Reddy, 
+ Muddagoni Akshith, 
  Bonkuru Ajay 
 
 **Guide:** Dr. Vibha D. Kulkarni, Assistant Professor, ECE Department  
