@@ -133,12 +133,9 @@ pip install numpy matplotlib
 ---
 
 ## Authors
-
-| Name | Roll Number |
-|------|-------------|
-| Muddagoni Akshith | 1602-22-735-067 |
-| Munagala Sampath Reddy | 1602-22-735-101 |
-| Bonkuru Ajay | 1602-22-735-064 |
+ Munagala Sampath Reddy 
+ Muddagoni Akshith 
+ Bonkuru Ajay 
 
 **Guide:** Dr. Vibha D. Kulkarni, Assistant Professor, ECE Department  
 **Institution:** Vasavi College of Engineering (Autonomous), Hyderabad — 2022–2026
@@ -146,7 +143,7 @@ pip install numpy matplotlib
 ---
 
 ## References
-
+-“DL-FSC: Deep Learning Assisted Fast Successive Cancellation Decoder for Polar Codes
 - E. Arikan, "Channel Polarization: A Method for Constructing Capacity-Achieving Codes," *IEEE Trans. Inf. Theory*, 2009.
 - E. Nachmani et al., "Learning to Decode Linear Codes," *NeurIPS*, 2016.
 - 3GPP TS 38.212 — NR Multiplexing and Channel Coding.
