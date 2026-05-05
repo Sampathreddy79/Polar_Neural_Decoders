@@ -1,0 +1,13 @@
+# Python environment
+.venv/
+__pycache__/
+
+# Data and Results
+nsc_data/
+
+# Model Weights
+Weight/
+
+# OS generated files or copies
+.git copy/
+config.py
